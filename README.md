@@ -9,3 +9,4 @@ Repository containing portfolio of data analytics projects completed by me for a
 - Jupyter Notebooks
 - SQL
 - Excel
+- Tableau Public
