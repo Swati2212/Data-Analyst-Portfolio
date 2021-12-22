@@ -11,4 +11,5 @@ Repository containing portfolio of data analytics projects completed by me for a
 - Excel
 - Tableau Public
 
-### PROJECT 1 - DATA EXPLORATION USING MS-SQL
+### PROJECT 1 - DATA EXPLORATION OF COVID DATA USING MS-SQL
+### PROJECT 2 - TABLEAU VISUALIZATION FOR COVID DATA USING SQL QUERIES
