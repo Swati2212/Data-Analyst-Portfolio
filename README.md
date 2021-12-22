@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-Repository containing portfolio of data analytics projects completed by me for academic, self learning.
+Repository containing portfolio of data analytics projects completed by me for academics and self learning.
 
 ## Technical Skills utilized
 - Python
