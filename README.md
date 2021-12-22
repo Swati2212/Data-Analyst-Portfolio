@@ -13,3 +13,4 @@ Repository containing portfolio of data analytics projects completed by me for a
 
 ### PROJECT 1 - DATA EXPLORATION OF COVID DATA USING MS-SQL
 ### PROJECT 2 - TABLEAU VISUALIZATION FOR COVID DATA USING SQL QUERIES
+### PROJECT 3 - DATA CLEANING USING SQL QUERIES
