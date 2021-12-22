@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning.
+Repository containing portfolio of data analytics projects completed by me for academic, self learning.
 
 ## Technical Skills utilized
 - Python
@@ -8,3 +8,4 @@ Repository containing portfolio of data science projects completed by me for aca
 - Data Visualization libraries (Matplotlib, Seaborn)
 - Jupyter Notebooks
 - SQL
+- Excel
