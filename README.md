@@ -10,3 +10,5 @@ Repository containing portfolio of data analytics projects completed by me for a
 - SQL
 - Excel
 - Tableau Public
+
+### PROJECT 1 - DATA EXPLORATION USING MS-SQL
